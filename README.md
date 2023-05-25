@@ -1,1 +1,1 @@
-# YOLOX-apple
+# YOLOX-for-apple-detection
